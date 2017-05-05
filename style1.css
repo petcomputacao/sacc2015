@@ -519,32 +519,44 @@ input[placeholder], [placeholder], *[placeholder] {
 @media (min-width: 0px) and (max-width: 379px)
 {
 	.text-box p.intro {
-    font-size: 22px;
+    	font-size: 22px;
 	}
-	.text-box h2 {
-    font-size: 20px;
-}
-.text-box h3 {
-    font-size: 16px;}
-    .text-box p a.link-button {
-    padding: 8px 14px;
-    font-size: 13px;}
-    .title h2 {
-   
-    font-size: 29px;}
-    .desc p {
-    font-size: 15px;
-    text-align: justify;}
-    .icon-text-box h4 {
-    text-align: center;
-}
-.icon-text-box p {
- 
-    text-align: center;}
 
-    .btneff {
-   
-    margin-top: 15px;
-    width: 80% !important;
-}
+	.text-box h2 {
+    	font-size: 20px;
+	}
+
+	.text-box h3 {
+		font-size: 16px;}
+		.text-box p a.link-button {
+		padding: 8px 14px;
+		font-size: 13px;}
+		.title h2 {
+	
+		font-size: 29px;}
+		.desc p {
+		font-size: 15px;
+		text-align: justify;}
+		.icon-text-box h4 {
+		text-align: center;
+	}
+
+	.icon-text-box p {
+	
+		text-align: center;}
+
+		.btneff {
+	
+		margin-top: 15px;
+		width: 80% !important;
+	}
+
+	.petTeam {
+		border: 4px solid  #2fa8c8;
+		background: url(img/team/03.jpg) center center;
+		width: 120px;
+		height: 120px;
+		border: 4px solid transparent;
+		transition: all 0.5s;
+	}
 }
