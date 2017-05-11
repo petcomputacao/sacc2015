@@ -6,3 +6,4 @@ Authors
 @igornatanael
 @isabellycavalcante
 @kaiokassiano
+@arthursampaio
