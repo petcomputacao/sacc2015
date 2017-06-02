@@ -650,3 +650,13 @@ textarea#message{
 	transition: all 0.5s;
 }
 	
+.orgTeam {
+	margin: 0 auto;
+	border: 4px solid transparent;
+	background: url(../img/team/equipe.jpg) center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 120px;
+	height: 120px;
+	transition: all 0.5s;
+}
